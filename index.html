@@ -1,15 +1,17 @@
 <html>
     <head>
-        <script src="nyheter.js"></script>
         <link rel="stylesheet" href="nyheter.css">
+        <meta charset="utf-8">
     </head>
     <body>
-        <h1>Nettavis</h1>
+        <div id="header">Nettavis</div>
         <nav style="text-align:center;">
-            <a><button class="btn"><span>Nyheter</span> </button> </a> |
-            <a><button class="btn"><span>Sportsnyheter</span></button></a> |
-            <a><button class="btn"><span>Kulturnyheter</span></button></a> |
-            <a><button class="btn"><span>Bakka-nyheter</span></button></a>
+            <a><button class="btn" onclick="news();"><span>Nyheter</span> </button> </a> |
+            <a><button class="btn" onclick="sport();"><span>Sportsnyheter</span></button></a> |
+            <a><button class="btn" onclick="kultur();"><span>Kulturnyheter</span></button></a> |
+            <a><button class="btn" onclick="bakka();"><span>Bakka-nyheter</span></button></a>
         </nav>
+        <div id="content">Content</div>
+        <script src="nyheter.js"></script>
     </body>
 </html>
