@@ -48,4 +48,10 @@ h1{
     opacity: 1;
     right: 0;
   }
+  #content{
+    width: 60%;
+    height: 50%;
+    background-color: gold;
+    color: beige;
+  }
 
