@@ -1,8 +1,8 @@
 const content = document.getElementById("content");
 
 news = function() {
-    content.innnerHTML = "Russlands president Vladimir Putin mobiliserer reservestyrkene og truer Vesten med atomvåpen. Ifølge forsvarsministeren vil det gi 300.000 nye soldater til krigen i Ukraina."+
-    "<img src='putin.png'>";
+    content.innerHTML = "Russlands president Vladimir Putin mobiliserer reservestyrkene og truer Vesten med atomvåpen. Ifølge forsvarsministeren vil det gi 300.000 nye soldater til krigen i Ukraina."+
+    "<img src='putin.png' width='800px' height='200px'>";
 }
 
 sport = function() {
