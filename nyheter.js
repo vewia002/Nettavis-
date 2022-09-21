@@ -13,3 +13,4 @@ kultur = function() {
 bakka = function() {
     
 }
+
