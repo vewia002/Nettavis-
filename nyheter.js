@@ -30,6 +30,6 @@ bakka = function() {
      "Om spørsmål på hvorfor så mange melder seg inn i elevlaget svarer deres leder følgende:"+ 
     "-Sykkellaget er et elelvlag som er åpent alle. Hvis du ikke liker Sykkel lærer vi deg å like Sykkel. Dessuten kan vi"+ 
     " love en total innlemmelse i Sykkellagets zeitgeist som ikke kan sammenlignes med noe noen andre elevlag kan tilby"+
-    </p>";
+    "</p>";
 }
 
