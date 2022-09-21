@@ -2,13 +2,12 @@ body {
     margin: 0;
     background-color: peru;
     font-family: 'Times New Roman', Times, serif;
-
+    text-align: center;
 
 }
 h1{
     font-size: 100px;
     text-align: center;
-
 }
 .btn {
     display: inline-block;
@@ -53,5 +52,7 @@ h1{
     height: 50%;
     background-color: gold;
     color: beige;
+    margin-top: 5%;
+    text-align: center;
   }
 
